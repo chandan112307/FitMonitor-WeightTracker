@@ -1,0 +1,5 @@
+pandas
+plotly
+streamlit
+streamlit-authenticator==0.1.5
+pymongo
